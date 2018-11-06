@@ -21,3 +21,9 @@ https://towardsdatascience.com/deep-learning-with-tensorflow-part-3-music-and-te
 
 The website that hosted a majority of the MIDI files used can be found below:
 http://www.midm-database.co.uk/index.html
+
+The Oneohtrix Point Never MIDI files can be found here (Garden of Delete album):
+http://www.kaossedgeofficial.com/ke_hyperhall.html
+
+The few Animal Collective MIDI files that I found were sourced from this website:
+http://actabs.pbworks.com/w/page/25729163/Index
