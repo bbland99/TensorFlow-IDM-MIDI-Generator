@@ -9,7 +9,7 @@ from ".midi" to ".mid". This is because the digital audio workspace that I use (
 
 I have changed Matteo's version (Pop Music) that included MIDI files of popular music, to have IDM MIDI files.
 The artists that are included in this MIDI collection are Aphex Twin, Autechre, Boards of Canada, Oneohtrix Point Never,
-and a few Animal Collective songs ( to mix things up a bit :) )
+a few Animal Collective songs ( to mix things up a bit :) ), and the only Burial MIDI file that I could find.
 
 The github links for the creators can be found below:
 https://github.com/llSourcell
@@ -18,3 +18,6 @@ https://github.com/burliEnterprises
 
 The tutorial that I followed is also linked below (written by Matteo Kofler):
 https://towardsdatascience.com/deep-learning-with-tensorflow-part-3-music-and-text-generation-8a3fbfdc5e9b
+
+The website that hosted a majority of the MIDI files used can be found below:
+http://www.midm-database.co.uk/index.html
